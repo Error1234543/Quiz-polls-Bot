@@ -6,7 +6,7 @@ const rateLimit = rateLimitPkg.default || rateLimitPkg;
 
 const app = express();
 const BOT_TOKEN = process.env.BOT_TOKEN || "8170315201:AAFG-m59j0-yxn02ZSxXjAYqR8fJt5OJJ_k";
-const BASE_URL = process.env.BASE_URL || "https://poll-bot-angel.onrender.com";
+const BASE_URL = process.env.BASE_URL || "https://quiz-polls-bot-kpi2.onrender.com/";
 const PORT = process.env.PORT || 3000;
 
 if (!BOT_TOKEN) {
