@@ -5,7 +5,7 @@
   "keywords": ["telegram", "poll", "quiz", "bot", "telegraf"],
   "env": {
     "BOT_TOKEN": {
-      "description": "Telegram Bot Token",
+      "description": "8170315201:AAFG-m59j0-yxn02ZSxXjAYqR8fJt5OJJ_kn",
       "required": true
     },
     "BASE_URL": {
